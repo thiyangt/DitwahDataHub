@@ -11,6 +11,7 @@ To install the package
 ``` r
 install.packages("pak")
 pak::pak("thiyangt/Ditwah")
+library(Ditwah)
 ```
 
 Link to package repository: [https://github.com/thiyangt/Ditwah](https://github.com/thiyangt/Ditwah)
@@ -22,6 +23,7 @@ This package `ditwahLandslide` provides curated early-warning data on landslides
 ``` r
 install.packages("pak")
 pak::pak("thiyangt/ditwahLandslide")
+library(ditwahLandslide)
 ```
 
 Link to package repository: [https://thiyangt.github.io/ditwahLandslide/](https://thiyangt.github.io/ditwahLandslide/)

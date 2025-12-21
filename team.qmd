@@ -1,7 +1,96 @@
 # Our Team
 
 
+<style>
+.team-circle img {
+  border-radius: 50%;
+}
+</style>
 
-## Contact
+## Founder and Team Leader
 
-Email: ttalagala@sjp.ac.lk
+
+
+
+
+::: {.columns .team-circle}
+::: {.column width="25%" style="text-align:center"}
+![](avatar.jpg){width=160px}
+
+
+:::
+
+::: {.column width="25%" style="text-align:center"}
+
+
+**Dr Thiyanga S. Talagala**
+
+Senior Lecturer
+
+Department of Statistics
+
+Faculty of Apllied Sciences
+
+University of Sri Jayewardenepura
+
+**Email: ttalagala@sjp.com**
+:::
+
+
+
+
+:::
+
+
+
+## Team Members
+
+::: {.columns .team-circle}
+::: {.column width="25%" style="text-align:center"}
+![](amali.jpg){width=120px}
+
+**Amali Rajapaksha**
+
+Department of Statistics
+
+Faculty of Applied Sciences
+
+University of Sri Jayewardenepura
+:::
+
+::: {.column width="25%" style="text-align:center"}
+![](GeethmaJaysinghe.jpg){width=120px}
+
+**Geethma Jayasinghe**
+
+Department of Statistics
+
+Faculty of Applied Sciences
+
+University of Sri Jayewardenepura
+:::
+
+::: {.column width="25%" style="text-align:center"}
+![](Savindya_Thathsarani.jpeg){width=120px}
+
+**Savindhya Thathsarani**
+
+Department of Statistics
+
+Faculty of Applied Sciences
+
+University of Sri Jayewardenepura
+:::
+
+::: {.column width="25%" style="text-align:center"}
+![](Minimuthu.jpg){width=120px}
+
+**Shehara Minimuthu**
+
+Department of Statistics
+
+Faculty of Applied Sciences
+
+University of Sri Jayewardenepura
+:::
+:::
