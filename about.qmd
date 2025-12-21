@@ -13,7 +13,7 @@ install.packages("pak")
 pak::pak("thiyangt/Ditwah")
 ```
 
-Link to package repository: https://github.com/thiyangt/Ditwah
+Link to package repository: [https://github.com/thiyangt/Ditwah](https://github.com/thiyangt/Ditwah)
 
 # ditwahLandslide
 
@@ -24,4 +24,4 @@ install.packages("pak")
 pak::pak("thiyangt/ditwahLandslide")
 ```
 
-Link to package repository: https://thiyangt.github.io/ditwahLandslide/
+Link to package repository: [https://thiyangt.github.io/ditwahLandslide/](https://thiyangt.github.io/ditwahLandslide/)
