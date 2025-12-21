@@ -1,0 +1,32 @@
+# Example Codes to Load Data
+
+## Ditwah
+
+```{r, warning=FALSE, message=FALSE, echo=TRUE}
+library(Ditwah)
+ditwah_3hr_weather_data
+```
+
+```{r}
+ditwah_3hr_weather_data
+```
+
+```{r}
+weather_report
+```
+
+```{r}
+situation_report_30NOV1600
+```
+
+```{r}
+flood_water_level
+```
+
+
+## ditwahLandslide
+
+```{r, warning=FALSE, message=FALSE, echo=TRUE}
+library(ditwahLandslide)
+ditwah_landslides_warnings
+```

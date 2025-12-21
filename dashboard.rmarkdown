@@ -1,0 +1,31 @@
+# Interactive Dashboard
+
+## Dithwa Storm Impact: Weather Data Monitoring & Analysis Dashboard
+
+To access dashboard visit [https://thiyangt.github.io/DitwahDashboard/](https://thiyangt.github.io/DitwahDashboard/)
+
+![](db.png)
+
+
+## 
+
+To access dashboard
+
+
+
+
+
+
+```{r}
+library(ditwahLandslide)
+run_app()
+```
+
+
+
+
+
+
+
+![](db2.png)
+

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ditwah Cyclone Data & Analysis Hub"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - dataviz.qmd
+      - dashboard.qmd
+      - team.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

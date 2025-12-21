@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+![](combined_stickers.png)
+
+On 28 November 2025, Cyclonic Storm Ditwah hit Sri Lanka, causing widespread human suffering and a major crisis. **Ditwah Cyclone Data & Analysis Hub** designed to provide tidy, analysis-ready datasets for research, education, and practical applications in disaster management.
+
+These datasets can be used for:
+
+-   Statistical analysis and modeling of flood and landslide events
+
+-   Educational purposes, including demonstrations and exercises in data science or environmental studies
+
+-   Disaster preparedness planning and early-warning system development
+
+-   Visualization and dashboard creation for real-time monitoring and reporting
