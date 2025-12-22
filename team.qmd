@@ -1,28 +1,21 @@
 # Our Team
 
-
+```{=html}
 <style>
 .team-circle img {
   border-radius: 50%;
 }
 </style>
+```
 
 ## Founder and Team Leader
 
-
-
-
-
-::: {.columns .team-circle}
+::::: {.columns .team-circle}
 ::: {.column width="25%" style="text-align:center"}
-![](avatar.jpg){width=160px}
-
-
+![](avatar.jpg){width="160px"}
 :::
 
 ::: {.column width="25%" style="text-align:center"}
-
-
 **Dr Thiyanga S. Talagala**
 
 Senior Lecturer
@@ -33,24 +26,20 @@ Faculty of Apllied Sciences
 
 University of Sri Jayewardenepura
 
-**Email: ttalagala@sjp.com**
+**Email: ttalagala\@sjp.ac.lk**
 :::
-
-
-
-
-:::
-
-
+:::::
 
 ## Team Members
 
-::: {.columns .team-circle}
+::::::: {.columns .team-circle}
 ::: {.column width="25%" style="text-align:center"}
-![](amali.jpg){width=120px}
+![](amali.jpg){width="120px"}
 
 **Amali Rajapaksha**
 
+BSc (Hons) Statistics - Undergraduate
+
 Department of Statistics
 
 Faculty of Applied Sciences
@@ -59,10 +48,12 @@ University of Sri Jayewardenepura
 :::
 
 ::: {.column width="25%" style="text-align:center"}
-![](GeethmaJaysinghe.jpg){width=120px}
+![](GeethmaJaysinghe.jpg){width="120px"}
 
 **Geethma Jayasinghe**
 
+BSc (Hons) Statistics - Undergraduate
+
 Department of Statistics
 
 Faculty of Applied Sciences
@@ -71,10 +62,12 @@ University of Sri Jayewardenepura
 :::
 
 ::: {.column width="25%" style="text-align:center"}
-![](Savindya_Thathsarani.jpeg){width=120px}
+![](Savindya_Thathsarani.jpeg){width="120px"}
 
 **Savindhya Thathsarani**
 
+BSc (Hons) Statistics - Undergraduate
+
 Department of Statistics
 
 Faculty of Applied Sciences
@@ -83,9 +76,11 @@ University of Sri Jayewardenepura
 :::
 
 ::: {.column width="25%" style="text-align:center"}
-![](Minimuthu.jpg){width=120px}
+![](Minimuthu.jpg){width="120px"}
 
 **Shehara Minimuthu**
+
+BSc (Hons) Statistics - Undergraduate
 
 Department of Statistics
 
@@ -93,4 +88,4 @@ Faculty of Applied Sciences
 
 University of Sri Jayewardenepura
 :::
-:::
+:::::::
