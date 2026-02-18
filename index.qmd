@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![](combined_stickers.png)
+![](puppet.png)
 
 On 28 November 2025, Cyclonic Storm Ditwah hit Sri Lanka, causing widespread human suffering and a major crisis. **Ditwah Cyclone Data & Analysis Hub** designed to provide tidy, analysis-ready datasets for research, education, and practical applications in disaster management.
 
